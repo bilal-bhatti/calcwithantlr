@@ -1,8 +1,9 @@
 package calc
 
 import (
-	"calcwithantlr/parser"
 	"fmt"
+
+	"github.com/bilal-bhatti/calcwithantlr/parser"
 )
 
 // Listener ...

@@ -9,8 +9,8 @@ import (
 
 	"github.com/antlr/antlr4/runtime/Go/antlr"
 
-	"calcwithantlr/calc"
-	"calcwithantlr/parser"
+	"github.com/bilal-bhatti/calcwithantlr/calc"
+	"github.com/bilal-bhatti/calcwithantlr/parser"
 )
 
 func main() {

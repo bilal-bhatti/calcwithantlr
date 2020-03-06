@@ -1,4 +1,4 @@
-module calcwithantlr
+module github.com/bilal-bhatti/calcwithantlr
 
 go 1.13
 
